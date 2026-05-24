@@ -25,8 +25,8 @@ Designed to bridge the safety gap in volatile construction zones, this module in
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/roadwork-intention-perception.git](https://github.com/YOUR_USERNAME/roadwork-intention-perception.git)
-   cd roadwork-intention-perception
+   git clone [https://github.com/YOUR_USERNAME/roadwork-perception-module.git](https://github.com/Sabarinath-Palanisamy/roadwork-perception-module.git)
+   cd roadwork-perception-module
    ```
 
 2. **Set up the isolated Python environment:**
@@ -65,6 +65,12 @@ This model was trained on a custom aggregated master dataset merged from 5 indep
 - [ ] **Milestone 3 (June 22):** Tracking integration and Motion Vector (Δpos/Δt) logic implementation.
 - [ ] **Final (July 06):** Demonstration of Intention Recognition system & Final Report defense.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
+**Vignesh Marimuthu** Master of Information Technology | Autonomous Vehicles  
+Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+**Kashish Sharma** Master of Information Technology | Autonomous Vehicles  
+Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+**Anand** Master of Information Technology | Autonomous Vehicles  
+Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
 **Sabarinath Palanisamy** Master of Information Technology | Autonomous Vehicles  
 Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
