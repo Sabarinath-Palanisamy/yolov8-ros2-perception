@@ -3,7 +3,7 @@ from ultralytics import YOLO
 
 # 1. Load your custom-trained model weights
 # Ensure this path matches exactly where your 'best.pt' was saved
-model_path = "runs/detect/train/weights/best.pt"
+model_path = "runs/segment/train/weights/best.pt"
 model = YOLO(model_path)
 
 # 2. Define the input source
