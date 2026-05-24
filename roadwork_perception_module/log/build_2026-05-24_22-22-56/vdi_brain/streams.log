@@ -1,0 +1,37 @@
+[1.031s] Invoking command in '/home/Sabari/projects/ObjectDetection/roadwork_perception_module/src/vdi_brain': NODE_OPTIONS= --require /home/Sabari/.config/Code/User/workspaceStorage/c51b4575380a286fe6ea88fd601cbea2/ms-vscode.js-debug/bootloader.js PYTHONPATH=/home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo8_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vdi_brain build --build-base /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build install --record /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/install.log --single-version-externally-managed install_data
+[1.293s] running egg_info
+[1.293s] creating ../../build/vdi_brain/vdi_brain.egg-info
+[1.310s] writing ../../build/vdi_brain/vdi_brain.egg-info/PKG-INFO
+[1.311s] writing dependency_links to ../../build/vdi_brain/vdi_brain.egg-info/dependency_links.txt
+[1.311s] writing entry points to ../../build/vdi_brain/vdi_brain.egg-info/entry_points.txt
+[1.311s] writing requirements to ../../build/vdi_brain/vdi_brain.egg-info/requires.txt
+[1.311s] writing top-level names to ../../build/vdi_brain/vdi_brain.egg-info/top_level.txt
+[1.312s] writing manifest file '../../build/vdi_brain/vdi_brain.egg-info/SOURCES.txt'
+[1.347s] reading manifest file '../../build/vdi_brain/vdi_brain.egg-info/SOURCES.txt'
+[1.348s] writing manifest file '../../build/vdi_brain/vdi_brain.egg-info/SOURCES.txt'
+[1.348s] running build
+[1.348s] running build_py
+[1.348s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build
+[1.348s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib
+[1.348s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib/vdi_brain
+[1.348s] copying vdi_brain/intention_node.py -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib/vdi_brain
+[1.348s] copying vdi_brain/__init__.py -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib/vdi_brain
+[1.348s] running install
+[1.356s] running install_lib
+[1.374s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain
+[1.374s] copying /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib/vdi_brain/intention_node.py -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain
+[1.374s] copying /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build/lib/vdi_brain/__init__.py -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain
+[1.375s] byte-compiling /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain/intention_node.py to intention_node.cpython-312.pyc
+[1.376s] byte-compiling /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain/__init__.py to __init__.cpython-312.pyc
+[1.376s] running install_data
+[1.376s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/share/ament_index
+[1.376s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/share/ament_index/resource_index
+[1.376s] creating /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/share/ament_index/resource_index/packages
+[1.377s] copying resource/vdi_brain -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/share/ament_index/resource_index/packages
+[1.377s] copying package.xml -> /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/share/vdi_brain
+[1.377s] running install_egg_info
+[1.397s] Copying ../../build/vdi_brain/vdi_brain.egg-info to /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages/vdi_brain-0.0.0-py3.12.egg-info
+[1.397s] running install_scripts
+[1.530s] Installing intention_node script to /home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/vdi_brain
+[1.531s] writing list of installed files to '/home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/install.log'
+[1.566s] Invoked command in '/home/Sabari/projects/ObjectDetection/roadwork_perception_module/src/vdi_brain' returned '0': NODE_OPTIONS= --require /home/Sabari/.config/Code/User/workspaceStorage/c51b4575380a286fe6ea88fd601cbea2/ms-vscode.js-debug/bootloader.js PYTHONPATH=/home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/Sabari/projects/ObjectDetection/roadwork_perception_module/install/vdi_brain/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo8_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vdi_brain build --build-base /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/build install --record /home/Sabari/projects/ObjectDetection/roadwork_perception_module/build/vdi_brain/install.log --single-version-externally-managed install_data

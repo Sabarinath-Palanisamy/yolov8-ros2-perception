@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/vdi_brain/vdi_brain.egg-info/PKG-INFO
+../../build/vdi_brain/vdi_brain.egg-info/SOURCES.txt
+../../build/vdi_brain/vdi_brain.egg-info/dependency_links.txt
+../../build/vdi_brain/vdi_brain.egg-info/entry_points.txt
+../../build/vdi_brain/vdi_brain.egg-info/requires.txt
+../../build/vdi_brain/vdi_brain.egg-info/top_level.txt
+../../build/vdi_brain/vdi_brain.egg-info/zip-safe
+resource/vdi_brain
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+vdi_brain/__init__.py
+vdi_brain/intention_node.py
