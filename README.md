@@ -66,11 +66,7 @@ This model was trained on a custom aggregated master dataset merged from 5 indep
 - [ ] **Final (July 06):** Demonstration of Intention Recognition system & Final Report defense.
 
 ## 👨‍💻 Authors
-**Vignesh Marimuthu** Master of Information Technology | Autonomous Vehicles  
-Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
-**Kashish Sharma** Master of Information Technology | Autonomous Vehicles  
-Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
-**Anand** Master of Information Technology | Autonomous Vehicles  
-Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
-**Sabarinath Palanisamy** Master of Information Technology | Autonomous Vehicles  
-Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+- **Vignesh Marimuthu** Master of Information Technology | Autonomous Vehicles Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+- **Kashish Sharma** Master of Information Technology | Autonomous Vehicles Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+- **Anand** Master of Information Technology | Autonomous Vehicles Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
+- **Sabarinath Palanisamy** Master of Information Technology | Autonomous Vehicles Technische Hochschule Ostwestfalen-Lippe (TH-OWL), Germany
