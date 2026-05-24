@@ -1,0 +1,16 @@
+# Ignore the massive image datasets
+datasets/
+
+# Ignore Python virtual environments
+roadwork_perception_module/yolo8_env/
+*env*/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore heavy model training runs EXCEPT your final best weight
+runs/
+!runs/detect/train/weights/best.pt
+*.pt
+!best.pt
