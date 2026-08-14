@@ -14,3 +14,7 @@ runs/
 !runs/detect/train/weights/best.pt
 *.pt
 !best.pt
+build/
+install/
+log/
+*.egg-info/
