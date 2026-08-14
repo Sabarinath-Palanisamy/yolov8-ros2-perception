@@ -5,7 +5,8 @@ package_name = 'vdi_brain'
 setup(
     name=package_name,
     version='0.0.0',
-    packages=find_packages(exclude=['test']),
+    # 🛠️ CHANGED HERE: Hardcoded package name inclusion to bypass discovery errors
+    packages=[package_name], 
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
@@ -23,8 +24,8 @@ setup(
         ],
     },
     entry_points={
-        'console_scripts': [
-		'intention_node = vdi_brain.intention_node:main'
+    'console_scripts': [
+        'intention_perception_node = vdi_brain.intention_node:main',
         ],
     },
 )

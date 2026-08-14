@@ -1,2 +1,2 @@
 [console_scripts]
-intention_node = vdi_brain.intention_node:main
+intention_perception_node = vdi_brain.intention_node:main
